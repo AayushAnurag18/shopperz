@@ -44,7 +44,7 @@ const Nav = () => {
               <a>All Books</a>
             </Link>
 
-            <a href="">About Us</a>
+            <a href="https://drive.google.com/file/d/1I2SwqiH2N_K_bAaaQ8h9-CqP_y2YT8YR/view?usp=sharing">About Us</a>
           </div>
           <ul className="flex gap-4 items-center text-lg m-3 mr-4">
             <li>
